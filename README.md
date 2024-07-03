@@ -1,6 +1,6 @@
 # MADVisualizer 
 #### by Dillon Thomas (dthomas@jlab.org) 2024
-
+![mad0](https://github.com/dthomas-jlab/MADVisualization/assets/174068398/ef158806-f445-4829-a689-cbb1acefbe70)
 
 ## Install MADVisualizer depencies:
 
