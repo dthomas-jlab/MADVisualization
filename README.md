@@ -1,14 +1,13 @@
-MADVisualizer by Dillon Thomas (dthomas@jlab.org) 2024
+# MADVisualizer 
+#### by Dillon Thomas (dthomas@jlab.org) 2024
 
-Github Notice: All MADVisualizer files excluding the default venv installation
-	are the property of Jefferson National Laboratory.  You may not use, copy, or modify without permission.
 
-Install MADVisualizer depencies:
+## Install MADVisualizer depencies:
 
-	Run ./install.sh
+### Run ./install.sh
 
-	Or if you want to install in the same directory but from a different machine like devll/accbrowse
-	Run ./install -r remotemachinename
+Or if you want to install in the same directory but from a different machine like devll/accbrowse
+### Run ./install -r remotemachinename
 	
 	What it does:
 
@@ -25,12 +24,12 @@ Install MADVisualizer depencies:
 
 	5. The venv will be deactivated and you are now ready to use MADVis.
 
-Running MADVisualizer:
+## Running MADVisualizer:
 	
-	Run ./run.sh on opsrfdaqnl1
+### Run ./run.sh on opsrfdaqnl1
 
-	Or if you aren't on opsrfdaqnl1
-	Run ./run.sh opsrfdaqnl1
+Or if you aren't on opsrfdaqnl1
+### Run ./run.sh -r opsrfdaqnl1
 
 	What it does:
 
